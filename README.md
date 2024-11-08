@@ -37,8 +37,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
-![GitHub Snake Animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg) -->
-
+![GitHub Snake Animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)  -->
 
 
 
